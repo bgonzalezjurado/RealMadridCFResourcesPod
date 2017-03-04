@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Texts</key>
+	<dict>
+		<key>FirstViewController</key>
+		<dict>
+			<key>Text1</key>
+			<string>REAL MADRID C.F.</string>
+			<key>Text2</key>
+			<string>Anthem</string>
+			<key>Text3</key>
+			<string>First Kit T-Shirt</string>
+			<key>Text4</key>
+			<string>Top Goals 2015/16</string>
+			<key>Text5</key>
+			<string>Info</string>
+			<key>Text6</key>
+			<string>Trophies</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

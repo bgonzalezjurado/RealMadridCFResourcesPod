@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fonts</key>
+	<dict>
+		<key>FirstViewController</key>
+		<dict>
+			<key>CellField1FontName</key>
+			<string>RealMadrid-Regular.ttf</string>
+			<key>CellField1FontSize</key>
+			<string>35</string>
+			<key>CellField2FontName</key>
+			<string>RealMadrid-Regular.ttf</string>
+			<key>CellField2FontSize</key>
+			<integer>20</integer>
+			<key>TitleFontName</key>
+			<string>RealMadrid-Regular.ttf</string>
+			<key>TitleFontSize</key>
+			<integer>50</integer>
+			<key>TextFontName</key>
+			<string>RealMadrid-Regular.ttf</string>
+			<key>TextFontSize</key>
+			<integer>30</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

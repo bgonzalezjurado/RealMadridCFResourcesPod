@@ -1,0 +1,46 @@
+{
+    "trophies":[
+                {"name": "TROFEO FIFA AL MEJOR CLUB DEL SIGLO XX",
+                "number": "1"
+                },{
+                "name": "COPAS DE EUROPA",
+                "number": "11"
+                },{
+                "name": "MUNDIALES DE CLUBES",
+                "number": "2"
+                },{
+                "name": "COPAS INTERCONTINENTALES",
+                "number": "3"
+                },{
+                "name": "SUPERCOPAS DE EUROPA",
+                "number": "3"
+                },{
+                "name": "COPAS DE LA UEFA",
+                "number": "2"
+                },{
+                "name": "LIGAS",
+                "number": "32"
+                },{
+                "name": "COPAS DEL REY",
+                "number": "19"
+                },{
+                "name": "SUPERCOPAS DE ESPAÑA",
+                "number": "9"
+                },{
+                "name": "COPA DE LA LIGA",
+                "number": "1"
+                },{
+                "name": "PEQUEÑAS COPAS DEL MUNDO",
+                "number": "2"
+                },{
+                "name": "COPAS LATINAS",
+                "number": "2"
+                },{
+                "name": "CAMPEONATOS REGIONALES",
+                "number": "18"
+                },{
+                "name": "TROFEOS MANCOMUNADOS",
+                "number": "5"
+                }
+                ]
+}

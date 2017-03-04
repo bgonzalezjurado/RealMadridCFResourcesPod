@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Images</key>
+	<dict>
+		<key>FirstViewController</key>
+		<dict>
+			<key>Image1</key>
+			<string>RealMadridCF_icon1.png</string>
+			<key>Image2</key>
+			<string>RealMadridCF_icon2.png</string>
+			<key>Image3</key>
+			<string>RealMadridCF_badge.png</string>
+			<key>Image4</key>
+			<string>RealMadridCF_tShirt.jpg</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
