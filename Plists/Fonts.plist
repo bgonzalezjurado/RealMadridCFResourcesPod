@@ -9,7 +9,7 @@
 			<key>CellField1FontName</key>
 			<string>RealMadrid-Regular.ttf</string>
 			<key>CellField1FontSize</key>
-			<string>35</string>
+			<integer>35</integer>
 			<key>CellField2FontName</key>
 			<string>RealMadrid-Regular.ttf</string>
 			<key>CellField2FontSize</key>

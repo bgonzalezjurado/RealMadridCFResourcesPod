@@ -1,6 +1,6 @@
 //
 //  StringExtension.swift
-//  CustomizationArchitectureDemo
+//  RealMadridCFResourcesPod
 //
 //  Created by Borja González Jurado on 17/7/16.
 //  Copyright © 2016 Borja González Jurado. All rights reserved.
